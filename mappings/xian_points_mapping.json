@@ -1,0 +1,28 @@
+{
+    "point": {
+        "properties": {
+            "geometry": {
+                "type": "geo_shape"
+            },
+            "id": {
+                "type": "string"
+            },
+            "properties": {
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "railway": {
+                        "type": "string"
+                    },
+                    "place": {
+                        "type": "string"
+                    },
+                    "highway": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}

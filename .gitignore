@@ -1,0 +1,5 @@
+.vagrant/
+exercise_data/LOADER/
+exercise_data/Melbourne-Localities/
+exercise_data/data-loader.log
+exercise_data/melbourne_accident/

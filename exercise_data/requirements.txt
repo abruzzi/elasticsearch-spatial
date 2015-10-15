@@ -1,0 +1,4 @@
+numpy
+pyes
+fiona
+shapely
